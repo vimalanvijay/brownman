@@ -1,0 +1,58 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - bmi",
+            "request": "launch",
+            "mainClass": "bmi"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Library",
+            "request": "launch",
+            "mainClass": "Library"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Book",
+            "request": "launch",
+            "mainClass": "Book"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex4",
+            "request": "launch",
+            "mainClass": "Ex4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex2",
+            "request": "launch",
+            "mainClass": "Ex2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ex1",
+            "request": "launch",
+            "mainClass": "ex1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ex1",
+            "request": "launch",
+            "mainClass": "Ex1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld"
+        }
+    ]
+}
